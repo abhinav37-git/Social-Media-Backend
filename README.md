@@ -22,7 +22,7 @@ This project is a scalable backend application designed for a social media platf
 - **Programming Language**: JavaScript.
 - **Frameworks**: Node.js, Express.
 - **Database Management**:
-  - PostgreSQL as the primary database for robust and efficient data handling.
+  - MongoDB as the primary database for robust and efficient data handling.
   - Sequelize ORM for database interaction and query optimization.
 - **API Documentation**: Postman Documenter for clear and structured endpoint definitions.
 
